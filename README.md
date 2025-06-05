@@ -3,9 +3,14 @@ Hello world, I'm *Syed Athif*! 👋
 Currently pursuing a Bachelor of Computer Science at [Taylor's University](https://university.taylors.edu.my/en.html).  
 Passionate about *Data Science, AI, and solving real-world problems*.  
 
-*Work Email:* [s.athif2105@gmail.com](mailto:s.athif2105@gmail.com)  
+*Email:* [s.athif2105@gmail.com](mailto:s.athif2105@gmail.com)  
 
 🌐 Socials:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-athif-365325308/)   
+---
+
+<div style="text-align: right;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Data Analytics Animation">
+</div>
 ---
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
