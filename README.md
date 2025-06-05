@@ -8,10 +8,13 @@ Passionate about *Data Science, AI, and solving real-world problems*.
 🌐 Socials:  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-athif-365325308/)   
 ---
 
-<div style="text-align: right;">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Data Analytics Animation">
-</div>
-
+  <div>
+    <p>About me🔍</p>
+    <p><strong>-📊 I'm a Data Analyst</strong></p>
+    <p><strong>-💤 Sleeps on data, runs on coffee!</strong></p>
+    <p><strong>-🕵️‍♂️ I don't make assumptions — I make <em>data-driven decisions</em>.</strong></p>
+    <p><strong>-📈 My charts have better glow-ups than my selfies.</strong></p>
+  </div>
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
